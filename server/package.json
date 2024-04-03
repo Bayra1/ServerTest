@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-
   },
   "keywords": [],
   "author": "",
@@ -13,6 +12,8 @@
   "type": "module",
   "dependencies": {
     "@apollo/server": "^4.10.2",
-    "graphql": "^16.8.1"
+    "config-js": "^1.1.15",
+    "graphql": "^16.8.1",
+    "ts-node": "^10.9.2"
   }
 }
